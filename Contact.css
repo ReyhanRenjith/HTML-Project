@@ -19,6 +19,7 @@ body{
     font-size: 20px;
     margin-top: 5px;
     margin-bottom: 0px;
+    padding-left: 5px;
 }
 .mail{
     margin-top: 0px;
@@ -40,11 +41,20 @@ body{
 }
 #AddH{
     margin-top: 20px;
+    margin-left: 10px;
 }
 #ContH{
-    margin-top: 20px;
+    margin-top: 25px;
+    margin-left: 10px;
 }
 #homea{
     text-decoration: none;
     color: #ffa781;
+    padding-left: 15px;
+}
+.main{
+    border: 7px ridge #5b0e2d;
+    border-radius: 20px;
+    margin: 10px;
+    padding-bottom: 20px;
 }
