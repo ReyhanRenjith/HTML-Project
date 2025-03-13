@@ -13,6 +13,11 @@ body {
     background-color: #5b0e2d;
     color: #ffa781;
     padding: 10px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1000;
 }
 
 .top-bar ul {
@@ -36,4 +41,74 @@ body {
     width: 60px;
     height: 20px;
     margin-top: 3px;
+}
+#RR{
+    border: 2px solid #ffa781;
+    border-radius: 22px;
+    padding: 5px;
+    margin-top: 0px;
+}
+.head{
+    color: #5b0e2d;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.intro{
+    margin-top: 80px;
+    margin-left: 2px;
+}
+.intro-text{
+    margin-left: 9px;
+    margin-right: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.skills{
+    margin-left: 60px;
+}
+.skills li{
+    font-size: 18px;
+    padding-top: 5px;
+    font-weight: bold;
+}
+.quote{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 270px;
+    margin-right: 210px;
+    border: 2px solid #ffa781;
+    padding-right: 10px;
+    border-radius: 20px;
+    background-color: #f8b092;
+}
+#quotemain{
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+}
+#author{
+    text-align: right;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.intro-body2{
+    margin-right: 15px;
+    margin-top: 20px;
+}
+.intro-text2{
+    margin-left: 9px;
+    margin-right: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 5px;
+}
+#Hskill{
+    color: #5b0e2d;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-left: 2px;
+    margin-top: 30px;
 }
