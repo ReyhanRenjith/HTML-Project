@@ -76,12 +76,13 @@ body {
 .quote{
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 270px;
+    margin-left: 260px;
     margin-right: 210px;
-    border: 2px solid #ffa781;
     padding-right: 10px;
     border-radius: 20px;
     background-color: #f8b092;
+    border: 7px ridge #5b0e2d;
+    border-radius: 20px;
 }
 #quotemain{
     font-size: 45px;
