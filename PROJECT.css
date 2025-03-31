@@ -120,6 +120,7 @@ body {
     }
     .top-bar a{
         padding: 10px;
+        font-size: 18px;
     }
     .top-bar ul{
         justify-content: left;
@@ -128,5 +129,8 @@ body {
         margin-left: 0px;
         margin-right: 0px;
         
+    }
+    #RR{
+        display: none;
     }
 }
