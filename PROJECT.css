@@ -113,3 +113,20 @@ body {
     margin-left: 2px;
     margin-top: 30px;
 }
+@media (max-width: 768px){
+    .top-bar li{
+        margin: 0px;
+        padding: 0px;
+    }
+    .top-bar a{
+        padding: 10px;
+    }
+    .top-bar ul{
+        justify-content: left;
+    }
+    .quote{
+        margin-left: 0px;
+        margin-right: 0px;
+        
+    }
+}

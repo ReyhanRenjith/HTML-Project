@@ -66,3 +66,25 @@
     color: #5b0e2d;
     padding-right: 5px;
 }
+@media (max-width: 768px){
+    .left{
+        width: 50%;
+        height: 100vh;
+    }
+    #left1{
+        font-size: 65px;
+        margin-bottom: 50px;
+    }
+    #right1{
+        font-size: 65px;
+        margin-bottom: 50px;
+    }
+    #left2{
+        font-size: 45px;
+        margin-bottom: 30px;
+    }
+    #right2{
+        font-size: 45px;
+        margin-bottom: 30px;
+    }
+}
