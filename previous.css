@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #ffa781;
+}
+#Home{
+    background-color: #5b0e2d;
+    color: #ffa781;
+    margin: 0px;
+    padding: 15px;
+    padding-left: 10px;
+}
+#homea{
+    text-decoration: none;
+    color: #ffa781;
+    padding-left: 15px;
+}
+#ProjT{
+    color: #5b0e2d;
+    margin: 10px;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.subs{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    list-style-type: disc;
+    margin-left: 50px;
+}
+li{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+#por{
+    border-radius: 5px;
+    margin-bottom: 6px;
+    border-color: #5b0e2d;
+    background-color: #5b0e2d;
+    margin-top: 0px;
+    text-decoration: none;
+    color: #ffa781;
+    padding:0px 5px 0px;
+    border-style: inset;
+
+}
