@@ -54,6 +54,15 @@ body {
     font-weight: bolder;
     font-size: 50px;
 }
+#pic{
+    width: 150px;
+    margin-right: 20px;
+    border: 5px outset #5b0e2d;
+    border-radius: 10%;
+}
+.t2{
+    display: flex
+}
 .intro{
     margin-top: 80px;
     margin-left: 2px;
@@ -132,5 +141,13 @@ body {
     }
     #RR{
         display: none;
+    }
+    .t2{
+        display: block;
+    }
+    #pic{
+        border: 0px;
+        margin-top: 20px;
+        margin-left: 100px;
     }
 }
