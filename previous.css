@@ -24,9 +24,10 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 .subs{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     list-style-type: disc;
     margin-left: 50px;
+    font-weight: bold;
 }
 li{
     font-size: 20px;
@@ -51,6 +52,7 @@ li{
 .sub1 li{
     font-size: 18px;
     font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 #bot{
     width: 500px;
